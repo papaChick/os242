@@ -3,3 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L3 GitHub related
 ZCZC W01 5 L11 Install Debian ISO
+ZCZC W01 30 L05 Studying Linux File Permissions
+ZCZC W01 20 L80 Watch youtube on Web Explotation
+ZCZC W01 10 L27 Setting up SSH Keys on WSL
