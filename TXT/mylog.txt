@@ -2,7 +2,13 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L3 GitHub related
-ZCZC W01 5 L11 Install Debian ISO
+ZCZC W01 05 L11 Install Debian ISO
 ZCZC W01 30 L05 Studying Linux File Permissions
 ZCZC W01 20 L80 Watch youtube on Web Explotation
 ZCZC W01 10 L27 Setting up SSH Keys on WSL
+ZCZC W01 99 L11 Setting Debian Guest
+ZCZC W01 05 L40 myupdate.txt
+ZCZC W01 05 L03 Github Related
+ZCZC W01 20 L32 Getting a better understanding of Linux Commands
+ZCZC W01 20 L32 Learning Regex
+ZCZC W01 30 L32 Getting a better understanding of Vim Basics
