@@ -12,3 +12,5 @@ ZCZC W01 05 L03 Github Related
 ZCZC W01 20 L32 Getting a better understanding of Linux Commands
 ZCZC W01 20 L32 Learning Regex
 ZCZC W01 30 L32 Getting a better understanding of Vim Basics
+ZCZC W02 10 L61 Backing up Week 01 Virtual Vox
+ZCZC W02 30 L21 Trying to connect to Virtual Box through WSL 2 
