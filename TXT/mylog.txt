@@ -14,3 +14,5 @@ ZCZC W01 20 L32 Learning Regex
 ZCZC W01 30 L32 Getting a better understanding of Vim Basics
 ZCZC W02 10 L61 Backing up Week 01 Virtual Vox
 ZCZC W02 30 L21 Trying to connect to Virtual Box through WSL 2 
+ZCZC W02 05 L07 Do Week 02 Demo
+ZCZC W02 15 L06 Cyber Security Full Course for Beginner 
