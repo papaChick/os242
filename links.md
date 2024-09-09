@@ -18,4 +18,4 @@ Topic | Type | Description
 :--   | :--: | :---   
 [How does RSA Cryptography work?](https://www.youtube.com/watch?v=qph77bTKJTM) | `Video` | This video explains how RSA functions as an asymmetric cryptography method. The explanation is thorough, including the math behind the method, allowing for a deep understanding of the topic.
 
-##
+## Week 03
