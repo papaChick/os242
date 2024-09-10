@@ -14,7 +14,7 @@ permalink: LINKS/
 | [Intro to Command Line & Terminal in 15 Minutes](https://www.youtube.com/watch?v=eIhqceKmvvo) | `Video` | This video provides a clear and concise introduction to the Command Line Interface (CLI), covering fundamental commands such as `cd`, `mv`, `ls`, `mkdir`, and others. The explanation is detailed and paced for a clear understanding. |
 
 ## Week 02
-| Topic | Type | Description  |
-| :--   | :--: | :---         |  
+| Topic | Type | Description |
+| :--   | :--: | :---        |    
 | [How does RSA Cryptography work?](https://www.youtube.com/watch?v=qph77bTKJTM) | `Video` | This video explains how RSA functions as an asymmetric cryptography method. The explanation is thorough, including the math behind the method, allowing for a deep understanding of the topic. |
 | [GnuPG Cheatsheet](https://devhints.io/gnupg) | `Blog` | This blog summarizes the GnuPG commands. it's well organized, so it's easy for you to locate the commands you need. |
