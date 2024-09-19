@@ -19,3 +19,9 @@ permalink: LINKS/
 | :--   | :--: | :---        |    
 | [How does RSA Cryptography work?](https://www.youtube.com/watch?v=qph77bTKJTM) | `Video` | This video explains how RSA functions as an asymmetric cryptography method. The explanation is thorough, including the math behind the method, allowing for a deep understanding of the topic. |
 | [GnuPG Cheatsheet](https://devhints.io/gnupg) | `Blog` | This blog summarizes the GnuPG commands. it's well organized, so it's easy for you to locate the commands you need. |
+
+## Week 03
+
+| Topic | Type | Decription |
+| :--   | :--: | :--        |
+

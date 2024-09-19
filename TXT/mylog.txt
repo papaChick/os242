@@ -2,7 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L3 GitHub related
-
 ZCZC W01 05 L11 Install Debian ISO
 ZCZC W01 30 L05 Studying Linux File Permissions
 ZCZC W01 20 L80 Watch youtube on Web Explotation
@@ -13,7 +12,6 @@ ZCZC W01 05 L03 Github Related
 ZCZC W01 20 L32 Getting a better understanding of Linux Commands
 ZCZC W01 20 L32 Learning Regex
 ZCZC W01 30 L32 Getting a better understanding of Vim Basics
-
 ZCZC W02 10 L61 Backing up Week 01 Virtual Box
 ZCZC W02 30 L21 Trying to connect to Virtual Box through WSL 2 
 ZCZC W02 05 L07 Do Week 02 Demo
@@ -28,3 +26,5 @@ ZCZC W02 100 L02 Classroom related
 ZCZC W02 70 L06 GSGS on Cybersecurity related topics
 ZCZC W02 30 L04 GitHub page related
 ZCZC W02 10 L22 Recheck files contained within tar file
+ZCZC W03 100 L02 Classroom related
+ZCZC W03 100 L02 Classroom related
