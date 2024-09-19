@@ -24,4 +24,4 @@ permalink: LINKS/
 
 | Topic | Type | Decription |
 | :--   | :--: | :--        |
-
+| [Linux Fundamentals](https://academy.hackthebox.com/module/details/18) | `Course` | This course explains the fundamentals of Linux. It covers everything from its structure until its security. All in all, I think it's one of the most well made course |
