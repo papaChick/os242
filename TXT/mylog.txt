@@ -28,3 +28,7 @@ ZCZC W02 30 L04 GitHub page related
 ZCZC W02 10 L22 Recheck files contained within tar file
 ZCZC W03 100 L02 Classroom related
 ZCZC W03 100 L02 Classroom related
+ZCZC W03 30 L05 Studying for Quiz
+ZCZC W03 30 L62 Backup Debian Guest
+ZCZC W03 60 L06 Learning File Systems
+ZCZC W03 240 L13 Assignment 03 related
