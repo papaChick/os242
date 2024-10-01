@@ -22,7 +22,12 @@ permalink: LINKS/
 
 ## Week 03
 
-| Topic | Type | Decription |
-| :--   | :--: | :--        |
+| Topic | Type | Description |
+| :--   | :--: | :--         |
 | [Linux Fundamentals](https://academy.hackthebox.com/module/details/18) | `Course` | This course explains the fundamentals of Linux. It covers everything from its structure until its security. All in all, I think it's one of the most well made course |
 | [Disk Partioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/) | `Blog` | This is a GeeksForGeeks blog. We know that GeeksForFeeks has a great reputation in doing their job, which is creating educational blogs. |
+
+## Week 04
+| Topic | Type | Description |
+| :--	| :--: | :--         |
+| [Memory & Storage](https://www.youtube.com/watch?v=TQCr9RV7twk) | `Video` | The CrashCourse video talks about how computers use memory, like RAM and hard drives, to save and find data. It explains the difference between types of memory in a clear way. This video is helpful for learning basic ideas about computer memory. |
