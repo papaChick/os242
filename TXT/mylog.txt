@@ -32,3 +32,9 @@ ZCZC W03 30 L05 Studying for Quiz
 ZCZC W03 30 L62 Backup Debian Guest
 ZCZC W03 60 L06 Learning File Systems
 ZCZC W03 240 L13 Assignment 03 related
+ZCZC W04 100 L02 Classroom related
+ZCZC W04 100 L02 Classroom related
+ZCZC W04 30 L05 Studying for Quiz
+ZCZC W04 30 L62 Backup Debian Guest
+ZCZC W04 60 L06 Learning about Memory
+ZCZC W04 100 L14 Assignment 04 related
