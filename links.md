@@ -31,3 +31,8 @@ permalink: LINKS/
 | Topic | Type | Description |
 | :--	| :--: | :--         |
 | [Memory & Storage](https://www.youtube.com/watch?v=TQCr9RV7twk) | `Video` | The CrashCourse video talks about how computers use memory, like RAM and hard drives, to save and find data. It explains the difference between types of memory in a clear way. This video is helpful for learning basic ideas about computer memory. |
+
+## Week 05
+| Topic | Type | Description |
+| :--   | :--: | :--         |
+| [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)| `Blog` | It covers everything about virtual memory in an Operating Systems. You can read it either in english or bahasa indonesia, therefore it's definitely one of the best reads you can find for Fasilkom UI's students |
