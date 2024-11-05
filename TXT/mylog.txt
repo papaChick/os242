@@ -46,3 +46,7 @@ ZCZC W06 100 L02 Classroom related
 ZCZC W06 100 L02 Classroom related
 ZCZC W06 180 L16 Assignment 06 related
 ZCZC W06 60 L06 Learning Concurrency
+ZCZC W07 100 L02 Classroom related
+ZCZC W07 100 L02 Classroom related
+ZCZC W07 180 L17 Assignment 07 Related
+ZCZC W07 60 L06 Review what usr/local/bin does
